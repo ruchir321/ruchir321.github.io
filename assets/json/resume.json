@@ -89,11 +89,7 @@
       "startDate": "2017-07-01",
       "endDate": "2021-07-01",
       "score": "",
-      "courses": [
-        "Neural Networks and Fuzzy Logic",
-        "Image Processing",
-        "Data Structures and Analysis of Algorithms"
-      ]
+      "courses": ["Neural Networks and Fuzzy Logic", "Image Processing", "Data Structures and Analysis of Algorithms"]
     }
   ],
   "awards": [],
@@ -104,53 +100,25 @@
       "name": "Languages & Frameworks",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "SQL",
-        "FastAPI",
-        "LangChain",
-        "spaCy",
-        "Pydantic",
-        "Node.js"
-      ]
+      "keywords": ["Python", "SQL", "FastAPI", "LangChain", "spaCy", "Pydantic", "Node.js"]
     },
     {
       "name": "AI & ML",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "LLMs (Llama, GPT)",
-        "RAG",
-        "NLP",
-        "OCR",
-        "XGBoost",
-        "Computer Vision",
-        "Prompt Engineering"
-      ]
+      "keywords": ["LLMs (Llama, GPT)", "RAG", "NLP", "OCR", "XGBoost", "Computer Vision", "Prompt Engineering"]
     },
     {
       "name": "Cloud & DevOps",
       "level": "Advanced",
       "icon": "fa-solid fa-cloud",
-      "keywords": [
-        "GCP (Vertex AI)",
-        "AWS",
-        "Azure",
-        "Docker",
-        "Git",
-        "CI/CD"
-      ]
+      "keywords": ["GCP (Vertex AI)", "AWS", "Azure", "Docker", "Git", "CI/CD"]
     },
     {
       "name": "Data & Databases",
       "level": "Advanced",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "Redis",
-        "Vector Databases",
-        "SAS Enterprise Miner",
-        "PostgreSQL"
-      ]
+      "keywords": ["Redis", "Vector Databases", "SAS Enterprise Miner", "PostgreSQL"]
     }
   ],
   "languages": [
@@ -173,14 +141,12 @@
       ],
       "startDate": "2025-11-01",
       "endDate": "2025-11-01",
-      "url": ""
+      "url": "https://github.com/ruchirattri/ckan-mcp-server"
     },
     {
       "name": "GPT From Scratch",
       "summary": "Constructed a decoder-only transformer model from first principles in PyTorch.",
-      "highlights": [
-        "Demonstrated deep understanding of attention mechanisms and LLM architecture."
-      ],
+      "highlights": ["Demonstrated deep understanding of attention mechanisms and LLM architecture."],
       "startDate": "2025-08-01",
       "endDate": "2025-08-01",
       "url": ""
